@@ -4,7 +4,7 @@ i got bored one day and made this for fun
 ⋅ Loud music that sometimes plays after the alert
 ⋅ Sometimes changes the favicon into a burger
 
-Installation:
+"Installation":
 ⋅ View the bookmarklet (https://raw.githubusercontent.com/BeanedCans/burgers-on-my-mind/main/bookmarklet)
 ⋅ Select all the text
 ⋅ Drag the text to your bookmark bar
